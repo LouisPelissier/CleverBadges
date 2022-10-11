@@ -17,4 +17,5 @@ The path and file name of the csv are in the config.ini
 The csv needs these headers:
 StudentID, LastName, FirstName, Homeroom Teacher, GradeLevel
 (extra columns will be ignored in file)
+
 The grade level needs to be KF in csv file for badges to be printed.
